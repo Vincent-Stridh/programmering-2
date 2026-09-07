@@ -1,1 +1,1 @@
-# prog2-enumerals
+# prog2
